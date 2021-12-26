@@ -11,7 +11,9 @@ The known format for plaintext is something like "MACS{...}", so:
 # decoding
 There is a very simple pattern that emerges, the formula for decoding each value, where y is the plaintext and x is the ciphertext:
 `y = (int) x/2 + 1`
+
 Decoding every value gives:
 77 65 67 83	123	121	48 117 95 52 114 51 95 51 118 49 108 125
+
 Converting this to ASCII gives:
 MACS{y0u_4r3_3v1l}
