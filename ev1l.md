@@ -8,7 +8,6 @@ The known format for plaintext is something like "MACS{...}", so:
 - 245 corresponds to decimal ASCII 123 ({)
 - 249 corresponds to decimal ASCII 125 (})
 
-# decoding
 There is a very simple pattern that emerges, the formula for decoding each value, where y is the plaintext and x is the ciphertext:
 `y = (int) x/2 + 1`
 
