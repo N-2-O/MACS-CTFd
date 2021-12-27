@@ -1,6 +1,6 @@
 # Lockbox_
 Unlock the first box with:
-> password{password}
+`password{password}`
 
 # Lockbox_01
 Search the coordinates 49°04′31″N 2°10′44″E. This is the death place of Van Gogh, who was born in Zundert.
@@ -10,7 +10,7 @@ Search "known for living in a jar and plucked chickens." This gives Diogenes.
 Search "the sixth largest navy in 1989." This gives Pepsi
 
 Unlock the second box with:
-> password{zundert_diogenes_pepsi}
+`password{zundert_diogenes_pepsi}`
 
 # Lockbox_02
 
