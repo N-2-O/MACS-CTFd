@@ -26,7 +26,6 @@ for (int i = 0; i < arr.length; i ++) {
 	arr[i] = arr[i] ^ i;
 	System.out.print((char) arr[i]);
 }
-System.out.println();
 ```
 
 The flag is `MACS{I'm like an XOR gate I literally can't even}`
