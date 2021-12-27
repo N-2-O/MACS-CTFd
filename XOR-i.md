@@ -20,7 +20,8 @@ Doing some XOR operations reveals that for each character, the XOR operation is 
 
 Do this for the rest of the ciphertext. In Java:
 
-`int[] arr = {77, 64, 65, 80, 127, 76, 33, 106, 40, 101, 99, 96, 105, 45, 111, 97, 48, 73, 93, 65, 52, 114, 119, 99,	125, 57, 83, 59, 112, 116, 106, 122, 82, 64, 78, 79, 93, 5, 69, 70, 70, 14, 94, 11, 73, 91, 75, 65, 77};
+`int[] arr = {77, 64, 65, 80, 127, 76, 33, 106, 40, 101, 99, 96, 105, 45, 111, 97, 48, 73, 93, 65, 52, 114, 119, 99, 125, 57, 83, 59, 112, 116, 106, 122, 82, 64, 78, 79, 93, 5, 69, 70, 70, 14, 94, 11, 73, 91, 75, 65, 77};
+
 		for (int i = 0; i < arr.length; i ++) {
 			arr[i] = arr[i] ^ i;
 			System.out.print((char) arr[i]);
