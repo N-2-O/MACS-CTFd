@@ -1,4 +1,7 @@
 # XOR-i
+
+> Cyberchef's magic won't save you now: 4d 40 41 50 7f 4c 21 6a 28 65 63 60 69 2d 6f 61 30 49 5d 41 34 72 77 63 7d 39 53 3b 70 74 6a 7a 52 40 4e 4f 5d 5 45 46 46 e 5e b 49 5b 4b 41 4d 
+
 For the following ciphertext, the clue is to use the XOR operation:
 
 `4d 40 41 50 7f 4c 21 6a 28 65 63 60 69 2d 6f 61 30 49 5d 41 34 72 77 63 7d 39 53 3b 70 74 6a 7a 52 40 4e 4f 5d 5 45 46 46 e 5e b 49 5b 4b 41 4d`
